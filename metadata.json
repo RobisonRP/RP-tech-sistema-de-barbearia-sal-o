@@ -1,0 +1,6 @@
+{
+  "name": "RP TECH - Gestão Pro",
+  "description": "Sistema completo para gestão de Salão de Beleza, Barbearia, Clínica de Estética e serviços com agenda, clientes, financeiro e estoque.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
